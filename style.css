@@ -3,3 +3,23 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+body {
+  font-family: "Josefin Sans";
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 0.375em;
+  font-weight: 600;
+}
+
+.text--accent {
+  color: #ce9898;
+  font-weight: 300;
+}
+
+p {
+  color: #ce9898;
+}
