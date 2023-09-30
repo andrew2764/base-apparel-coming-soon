@@ -7,11 +7,16 @@
 body {
   font-family: "Josefin Sans";
   background: linear-gradient(#ffffff, #fff4f4);
+  height: 100vh;
 }
 
 .logo {
   margin: 1.5em auto 1.5em 10%;
   max-width: 100px;
+}
+
+.image--hero {
+  max-width: 100%;
 }
 
 .container {
@@ -70,4 +75,7 @@ body {
   border: none;
   padding: 0.75em 1.75em;
   border-radius: 32px;
+}
+
+@media (min-width: 375px) {
 }
