@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-PdvhUBl_5Q
 - Live Site URL: https://andrew2764.github.io/base-apparel-coming-soon/
 
 ## My process
@@ -50,7 +50,11 @@ Users should be able to:
 
 ### Continued development
 
-It was quite a big gap between the mobile view and desktop view. Tried my best to style the layout for the in-between sizes in a way that makes sense. Looking at it, I think it's servicable but there are likely better ways of doing it.
+More difficult than it first seems. There was quite a big gap between the mobile view and desktop view. Tried my best to style the layout for the in-between sizes in a way that makes sense.
+
+Getting the positioning of the logo for the mobile view then desktop view also tripped me off. Ended up just using two img elements and changing their respective display css property.
+
+Looking at it, I think it's serviceable but I'm sure there are better ways of doing it. Regardless, I will keep practicing and learning.
 
 ## Author
 
