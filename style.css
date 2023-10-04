@@ -7,6 +7,10 @@
 body {
   font-family: "Josefin Sans";
   background: linear-gradient(#ffffff, #fff4f4);
+  background: url(./images/bg-pattern-desktop.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
 }
 
